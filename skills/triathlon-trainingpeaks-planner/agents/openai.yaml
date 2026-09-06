@@ -1,0 +1,4 @@
+interface:
+  display_name: "Triathlon TrainingPeaks Planner"
+  short_description: "Planeja a próxima semana de triatlo e publica no TrainingPeaks"
+  default_prompt: "Planeje somente a próxima semana do meu treino de triatlo, analisando meu Strava e os treinos de corrida que enviarei do Runna."
